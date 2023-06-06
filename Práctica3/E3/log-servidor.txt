@@ -1,0 +1,27 @@
+[2021-05-21, 10:44:08] ==> Número de caracteres recibidos: 4
+[2021-05-21, 10:44:09] ==> Número de caracteres recibidos: 4
+[2021-05-21, 10:44:13] ==> Número de caracteres recibidos: 15
+[2021-05-21, 10:44:14] ==> Número de caracteres recibidos: 5
+[2021-05-21, 10:44:19] ==> Número de caracteres recibidos: 4
+[2021-05-21, 10:44:19] ==> exit
+[2021-05-21, 10:44:27] ==> Número de caracteres recibidos: 4
+[2021-05-21, 10:44:27] ==> exit
+[2021-05-21, 10:45:28] ==> Número de caracteres recibidos: 4
+[2021-05-21, 10:45:28] ==> exit
+[2022-05-12, 00:15:25] ==> Número de caracteres recibidos: 4
+[2022-05-12, 00:15:31] ==> Número de caracteres recibidos: 6
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
+[2022-05-12, 00:24:15] ==> Número de caracteres recibidos: 5
